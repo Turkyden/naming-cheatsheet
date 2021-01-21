@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
-    <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f4079a9a15364be48d8a80395c578d01~tplv-k3u1fbpfcp-watermark.image" alt="Naming cheatsheet" />
+    <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
 
